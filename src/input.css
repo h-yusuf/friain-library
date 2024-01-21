@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+h1.h1{
+    font-family:Aldrich ;
+    font-weight: 700;
+}
+h1.head{
+    font-family:Poppins ;
+    font-weight: 700;
+    font-size: xx-large;
+}
